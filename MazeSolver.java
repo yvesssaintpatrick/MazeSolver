@@ -3,9 +3,6 @@
  * and then solves that maze if possible.
  *
  * @author  Shawn Lartey
- *AUSCI 235
- *1745455
- *23/03/23
  */
 import java.io.File;
 import java.io.FileNotFoundException;
